@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou lucas
 - 👀 Sou interessado em programação e games
 - 🌱 Estou estudando programação no momento
-- 💞️ Espero colaborar com tudo nesse meio de tecnoligia mas pro futuro ainda estou estudando kk
+- 💞️ Espero colaborar com tudo nesse meio de tecnologia mas pro futuro ainda estou estudando kk
 - 📫 lucasteodosio10@gmail.com
 
 <!---
